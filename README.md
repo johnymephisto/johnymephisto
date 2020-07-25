@@ -8,5 +8,5 @@ I like building ML/DL applications
 
 
 
-- 🔭 I’m currently working on a BERT based teext classifier package that can be used to train and deploy in few lines of code on most datasets.
+- 🔭 I’m currently working on a BERT based text classifier package that can be used to train and deploy in few lines of code on most datasets.
 -=
