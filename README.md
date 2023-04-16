@@ -1,6 +1,6 @@
 ### Hi there 👋 I  am Johny
 
-I work remotely at Eyeo GmBH building awesome Machine Learning powered adblocking
+I work on building awesome Machine Learning powered adblocking solutions
 
 I like building ML/DL applications
 
